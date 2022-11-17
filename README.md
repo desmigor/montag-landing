@@ -1,8 +1,12 @@
 # Montag Bar
 
- Montag Bar page is a landing page developed in React JS and it is deployed on Netlify. Link on Netlify -> [Click to view](#)
+This repository is for Montag Bar landing page which was developed with a modern bar design concept. It is hosted on Netlify and the technology stuck can be found below.
+
+## [View Live Site](https://marvel-campaign.netlify.app/)
+
+![](./src/assets/home-img.png)
 
 ## Stack:
 - React JS
-- CSS
-- HTML 
+- CSS (BEM Model)
+- HTML
