@@ -1,6 +1,6 @@
 import images from './images';
 
-const wines = [
+const milkshakes = [
   {
     title: 'Chapel Hill Shiraz',
     price: '$56',
@@ -28,7 +28,7 @@ const wines = [
   },
 ];
 
-const cocktails = [
+const juices = [
   {
     title: 'Aperol Sprtiz',
     price: '$20',
@@ -60,23 +60,23 @@ const awards = [
   {
     imgUrl: images.award02,
     title: 'Bib Gourmond',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'National Restaurant of the year 2022.',
   },
   {
     imgUrl: images.award01,
     title: 'Rising Star',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'New Healty Bar in Geneva city.',
   },
   {
     imgUrl: images.award05,
     title: 'AA Hospitality',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Best juice services in Geneva City.',
   },
   {
     imgUrl: images.award03,
     title: 'Outstanding Chef',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Best experienced Chefs in the Geneva.',
   },
 ];
 
-export default { wines, cocktails, awards };
+export default { milkshakes, juices, awards };

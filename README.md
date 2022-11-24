@@ -2,7 +2,7 @@
 
 This repository is for Montag Bar landing page which was developed with a modern bar design concept. It is hosted on Netlify and the technology stuck can be found below.
 
-## [View Live Site](https://marvel-campaign.netlify.app/)
+## [View Live Site](https://montag-bar.netlify.app/)
 
 ![](./src/assets/home-img.png)
 
