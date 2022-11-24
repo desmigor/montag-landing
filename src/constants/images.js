@@ -21,6 +21,7 @@ import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import montag from '../assets/montag.png';
+import montagGreen from '../assets/montag-green.png';
 
 const images = {
   bg,
@@ -46,6 +47,7 @@ const images = {
   sign,
   quote,
   montag,
+  montagGreen,
 };
 
 export default images;
